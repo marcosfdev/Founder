@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src=https://github.com/marcosfdev/Templar/blob/main/src/lib/assets/images/f.png width=90 height=90>
+<img src=https://github.com/marcosfdev/Templar/blob/main/src/lib/assets/images/f .png width=90 height=90>
 
 # Founder
 A preconfigured Sveltekit base application with Typescript, Tailwind Forms, Typography, Animate, Aspect-Ratio,  and Svelte-Icons pack
